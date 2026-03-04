@@ -79,12 +79,6 @@ This will:
 Build Django and PostgreSQL containers
 Apply database migrations automatically
 
-Run the server at:
-👉 http://localhost:8000
-
-3️. Access the application
-
-Swagger Docs → http://localhost:8000/api/docs/
 
 🧪 Example API Endpoints
 🔐 Authentication
@@ -97,3 +91,4 @@ POST	/api/auth/token/refresh/	       Refresh access token
 👨‍💻 Author
 Rajat (Rajat125tech)
 srivastava.rajat2004@gmail.com
+
